@@ -3,7 +3,7 @@ package obfs
 import (
 	"math/rand"
 
-	"github.com/sun8911879/shadowsocksR/ssr"
+	"github.com/wankyq/shadowsocksR/tree/master/shadowsocksR/ssr"
 )
 
 type randomHead struct {
